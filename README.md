@@ -1,12 +1,12 @@
 # IMDb_Movie-Analysis
 
-### Q.Had you think about how Directors , Producers , Production house so on.. think about how to choose Actor, Budget, Genre etc. 
+### Q. Had you think about how Directors , Producers , Production house so on.. think about how to choose Actor, Budget, Genre etc. 
 
-A. I don't think anyone from viewers think about this because we don't even care about it. 
+### A.  I don't think anyone from viewers think about this because we don't even care about it. 
 
 But, here our reviews, ratings, TRP and etc matters a lot to them to decide what should be done at what time
 
- So, Basically I am ging to tell you guys how they predict their result for upcoming projects.
+ So, Basically I am going to tell you guys how they predict their result for upcoming projects.
 
 In accordance with Data sets :
 
@@ -36,7 +36,7 @@ Task which I have performed here are:
  
  ---Last but off course not the least I have done prediction or analysis on the country (non-USA vs USA)
  
-  It comes to end but you again guys can intefere some more interesting insights on this data sets. 
+  It comes to end but you guys can intefere some more interesting insights on this data sets. 
  
  # Thank you!
 
