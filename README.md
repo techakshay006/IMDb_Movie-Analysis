@@ -20,7 +20,7 @@ Task which I have performed here are:
   - Then I talked about the profit and analysis over it using graphical representation
   - Then I talked about losses.
  
- --Interesting part I have discussed about the "MetaCritic" which is a website that aggregates reviews of films, TV shows, and many more from which I have only done analysis
+  -Interesting part I have discussed about the "MetaCritic" which is a website that aggregates reviews of films, TV shows, and many more from which I have only done analysis
  on films reviews.
  
  In the dataset there is a Column MetaCritic and IMDb_rating and done some analysis on these two columns which individually says different story regarding reviews or ratings
