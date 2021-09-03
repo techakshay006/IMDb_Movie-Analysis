@@ -9,7 +9,8 @@ But, here our reviews, ratings, TRP and etc matters a lot to them to decide what
  So, Basically I am ging to tell you guys how they predict their result for upcoming projects.
 
 In accordance with Data sets :
-      - Movie+Assignment+Data 
+
+   - Movie+Assignment+Data 
     
 (Contains top 100 rated movies over the past decade along with various piece of information about the movie, its actors, and the voters who have rated these movies online.)
 
